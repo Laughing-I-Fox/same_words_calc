@@ -1,2 +1,2 @@
 # words_calc
-Words calculate in your string
+Same words calculate in your string
